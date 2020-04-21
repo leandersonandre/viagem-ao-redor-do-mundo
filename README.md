@@ -23,13 +23,16 @@ Esta viagem será uma motivação e recompensa por ter se formado no programa de
 ## Sumário
 
 [01 - Diário do planejamento da viagem](diario/README.md)
+[02 - Requisitos da viagem](requisitos/README.md)
+
 
 
 ## TODO
 
 - [X] Diário de anotações sobre o processo de planejamento
 - [ ] Criar um contador regressivo para o dia da viagem (tecnologia)
-- [ ] Dividir o projeto em uma lista de objetivos a serem atigindos. 
+- [ ] Dividir o projeto em uma lista de objetivos a serem atigindos.
+- [ ] Listar as tecnologias necessárias para a viagem
 - [ ] Listar o que deve obrigatoriamente ter na viagem. (Ex: Visitar os 7 continentes, durar 3 meses) 
 - [ ] Listar os continentes
 - [ ] Listar os paises por continentes (Moeda/Capital/Visto para Brasileiros)
