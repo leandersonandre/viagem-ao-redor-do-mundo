@@ -5,6 +5,6 @@ Quando realizar alguma tarefa, irei adicionar uma nova anotação neste diário.
 
 ## Abril/2020
 
-00 - Dia 19/04/2020 - Surgimento da idéia
+[00 - Dia 19/04/2020](2020_04/00.md) - Surgimento da idéia
 
-01 - Dia 21/04/2020 - Criação do repositório para documentar o processo de planejamento
+[01 - Dia 21/04/2020](2020_04/01.md) - Criação do repositório para documentar o processo de planejamento
