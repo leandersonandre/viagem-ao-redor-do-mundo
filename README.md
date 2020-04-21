@@ -26,6 +26,8 @@ Esta viagem será uma motivação e recompensa por ter se formado no programa de
 
 [02 - Requisitos da viagem](requisitos/README.md)
 
+[03 - Bagagem](bagagem/README.md)
+
 
 
 ## TODO
