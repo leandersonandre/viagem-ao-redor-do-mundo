@@ -22,7 +22,7 @@ Esta viagem será uma motivação e recompensa por ter se formado no programa de
 
 ## Sumário
 
-[01 - Diário de bordo](diario/readme.md)
+[01 - Diário de bordo](diario/README.md)
 
 
 ## TODO
