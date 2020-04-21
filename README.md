@@ -20,6 +20,10 @@ _Primeira data prevista para a viagem:_ Segunda semana de Dezembro de 2022.
 Esta viagem será uma motivação e recompensa por ter se formado no programa de doutorado em engenharia elétrica. Defesa de tese de doutorado provisto para Dezembro de 2022.
 
 
+## Sumário
+
+[01 - Diário de bordo](/diario/readme.md)
+
 
 ## TODO
 
