@@ -28,7 +28,7 @@ Esta viagem será uma motivação e recompensa por ter se formado no programa de
 ## TODO
 
 - [X] Diário de anotações sobre o processo de planejamento
-- [ ] Criar um contador regressivo para o dia da viagem
+- [ ] Criar um contador regressivo para o dia da viagem (tecnologia)
 - [ ] Dividir o projeto em uma lista de objetivos a serem atigindos. 
 - [ ] Listar o que deve obrigatoriamente ter na viagem. (Ex: Visitar os 7 continentes, durar 3 meses) 
 - [ ] Listar os continentes
